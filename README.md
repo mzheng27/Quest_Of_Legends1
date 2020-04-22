@@ -1,9 +1,8 @@
 # Quest_Of_Legends1
-(Uses some color encodings that does not behaves properly on Windows it you're using cmd or powershell.)
+(Uses some color encodings that does not behaves properly on Windows it you're using cmd or powershell)
+
+
 Quest version 1 designed in Java. Object Oriented. Players may play in teams to fight monsters, buy inventories, tour the map, and level up. 
-
-(Uses some color encodings that does not behaves properly on Windows it you're using cmd or powershell.)
-
 
 >> To compile and execute enter:
 
